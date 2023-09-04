@@ -1,0 +1,15 @@
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.csproj.AssemblyReference.cache
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.AssemblyInfoInputs.cache
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.AssemblyInfo.cs
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.csproj.CoreCompileInputs.cache
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/bin/Debug/net7.0/warrior-csharp
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/bin/Debug/net7.0/warrior-csharp.deps.json
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/bin/Debug/net7.0/warrior-csharp.runtimeconfig.json
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/bin/Debug/net7.0/warrior-csharp.dll
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/bin/Debug/net7.0/warrior-csharp.pdb
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.dll
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/refint/warrior-csharp.dll
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.pdb
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/warrior-csharp.genruntimeconfig.cache
+/home/nelioespindulajr/Desktop/nelio/warrior-csharp/obj/Debug/net7.0/ref/warrior-csharp.dll
